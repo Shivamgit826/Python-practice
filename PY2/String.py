@@ -1,6 +1,3 @@
-from turtle import clear
-
-
 str1 = "This is a string"
 str2 = 'Shivam'
 str3 = """This is a string"""
@@ -43,4 +40,4 @@ print(len8)
 
 
 Final_str = str7 + str8
-print(len(Final_str))
+print(Final_str)
