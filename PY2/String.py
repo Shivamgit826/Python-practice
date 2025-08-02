@@ -40,4 +40,4 @@ print(len8)
 
 
 Final_str = str7 + str8
-print(Final_str)
+print(len(Final_str))
