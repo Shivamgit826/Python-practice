@@ -39,5 +39,5 @@ len8 = len(str8)    #Also calculated spaces in Length(len)
 print(len8)
 
 
-Final_str = str7 + str8
+Final_str = str7 + " " + str8
 print(len(Final_str))
