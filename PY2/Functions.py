@@ -64,4 +64,4 @@ print(str9.count("z"))
 
 
 
-#Its not about memorizing the functions, its about understanding the concept and using it in the right way.
+#####Its not about memorizing the functions, its about understanding the concept and using it in the right way.
