@@ -11,6 +11,8 @@ print(ch)
 str2 = "Hello! I am a string 2"
 print(str2[4])
 
+#Slicing [:]
+
 str3 = "This is a string 3"
 print(str3[1:6])
 
