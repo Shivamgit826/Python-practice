@@ -51,6 +51,17 @@ print(str9.count("z"))
 #if the string is not found, it will return 0
 
 
-# 3. str.startswith("string") Use to check if the string starts with the given string
-# 5. str.index("string") Use to find the first occurrence of the given string
-# 8. str.split("string") Use to split the string into a list of strings
+# str.startswith("string") Use to check if the string starts with the given string
+# str.index("string") Use to find the first occurrence of the given string
+# str.split("string") Use to split the string into a list of strings
+# str.join("string") Use to join the string into a list of strings
+# str.upper() Use to convert the string to uppercase
+# str.lower() Use to convert the string to lowercase
+# str.title() Use to convert the string to title case
+# str.strip() Use to remove the leading and trailing whitespace from the string
+# str.lstrip() Use to remove the leading whitespace from the string
+
+
+
+
+#Its not about memorizing the functions, its about understanding the concept and using it in the right way.
