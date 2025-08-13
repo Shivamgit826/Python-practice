@@ -52,3 +52,12 @@ elif(B >= C):
     print("B is the greatest number")
 else:
     print("C is the greatest number")
+
+#Practice Question 3
+Num2 = int(input("Enter A number: "))
+
+Rem2 = Num2 % 7
+if(Rem2 == 0):
+    print("Multiple by 7")
+else:
+    print("Not a multiple of 7")
