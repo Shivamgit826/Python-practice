@@ -1,4 +1,5 @@
 #Conditional statements
+#if, elif, else
 
 Marks = int(input("Enter your marks: "))
 if(Marks >= 90):
@@ -13,3 +14,12 @@ else:
     Grade = "D"
 
 print("Your grade is:", Grade)
+
+#Nested if statements(Nesting)
+age = int(input("Enter your age: "))
+if(age >= 18):
+    if(age <= 80):
+        print("Can Drive")
+    
+else:
+    print("You cannot drive, you are underage.")
