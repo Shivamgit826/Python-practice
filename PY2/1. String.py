@@ -1,3 +1,11 @@
+#strings
+#Strings are used to store text data.
+#Strings are defined using single quotes '', double quotes "", or triple quotes ''' or """.
+#Strings are immutable, meaning once created, their content cannot be changed.
+#Strings can contain letters, numbers, symbols, and whitespace.
+#Strings can be concatenated using the + operator.
+#Strings can be indexed, allowing access to individual characters.
+
 str1 = "This is a string"
 str2 = 'Shivam'
 str3 = """This is a string"""
