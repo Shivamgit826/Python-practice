@@ -62,4 +62,3 @@ print(Marks_2)
 Marks_2.remove(100.0)  #Removing the element we just added
 print(Marks_2)
 
-#List Comprehensions
