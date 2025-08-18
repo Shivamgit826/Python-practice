@@ -122,3 +122,4 @@ Fav_Movies_3.append(input("Enter the name of Movie: "))
 Fav_Movies_3.append(input("Enter the name of Movie: "))
 Fav_Movies_3.append(input("Enter the name of Movie: "))
 print(Fav_Movies_3)  #Printing the list of favorite movies
+
