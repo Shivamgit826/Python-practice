@@ -144,3 +144,4 @@ if(copy_list2 == List_Palindrome2):
     print("Palindrome")
 else:
     print("Non Palindrome")
+
