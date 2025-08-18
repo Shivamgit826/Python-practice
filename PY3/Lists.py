@@ -13,10 +13,10 @@ Marks3 = 78.0
 Marks4 = 88.5
 Marks5 = 90.0
 
-Marks = [87.8, 92.5, 78.0, 88.5, 90.0]
-print(Marks)
-print(len(Marks))
-print(Marks[2])  #Accessing third element
+Marks_Lists = [87.8, 92.5, 78.0, 88.5, 90.0]
+print(Marks_Lists)
+print(len(Marks_Lists))
+print(Marks_Lists[2])  #Accessing third element
 
 
 #We can change the value of a list item
@@ -62,3 +62,11 @@ print(Marks_2)
 Marks_2.remove(100.0)  #Removing the element we just added
 print(Marks_2)
 
+
+#Tuples in Python
+#Tuples are similar to lists but are immutable, meaning their content cannot be changed after creation.
+#Tuples are defined using parentheses ().
+Marks_Tuple = (87.8, 92.5, 78.0, 88.5, 90.0)
+print(Marks_Tuple)      #Printing the tuple
+print(type(Marks_Tuple))  #Checking the type of the tuple
+print(len(Marks_Tuple)) #Getting the length of the tuple
