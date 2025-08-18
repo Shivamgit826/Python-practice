@@ -115,3 +115,10 @@ Fav_Movies_2.append(Mov)
 Mov = input("Enter the name of Movie: ")
 Fav_Movies_2.append(Mov)
 print(Fav_Movies_2)  #Printing the list of favorite movies
+
+# 3rd Method to add movies
+Fav_Movies_3 = []  #Creating another empty list for favorite movies
+Fav_Movies_3.append(input("Enter the name of Movie: "))
+Fav_Movies_3.append(input("Enter the name of Movie: "))
+Fav_Movies_3.append(input("Enter the name of Movie: "))
+print(Fav_Movies_3)  #Printing the list of favorite movies
