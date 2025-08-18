@@ -123,3 +123,24 @@ Fav_Movies_3.append(input("Enter the name of Movie: "))
 Fav_Movies_3.append(input("Enter the name of Movie: "))
 print(Fav_Movies_3)  #Printing the list of favorite movies
 
+
+#Palindrome (Ma'am, racecar)
+
+#Practice Exercise 2
+List_Palindrome1 = [1, 2, 1]
+List_Palindrome2 = [1, 2, 3]
+
+copy_list1 = List_Palindrome1.copy()
+copy_list1.reverse()
+
+if(copy_list1 == List_Palindrome1):
+    print("Palindrome")
+else:
+    print("Non Palindrome")
+
+copy_list2 = List_Palindrome2.copy()
+copy_list2.reverse()
+if(copy_list2 == List_Palindrome2):
+    print("Palindrome")
+else:
+    print("Non Palindrome")
