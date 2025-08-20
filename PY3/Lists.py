@@ -145,3 +145,14 @@ if(copy_list2 == List_Palindrome2):
 else:
     print("Non Palindrome")
 
+
+#Practice Exercise 3
+Grade = ("C", "D", "A", "A", "B", "B", "A")
+print(Grade.count("A"))  #Counting occurrences of grade 'A'
+print(Grade.count("B"))  #Finding the index of the first occurrence of grade 'B'
+
+
+#Practice Exercise 4
+Grade_1 = ["C", "D", "A", "A", "B", "B", "A"]
+Grade_1.sort()  #Sorting the list of grades
+print(Grade_1)  #Printing the sorted list of grades
